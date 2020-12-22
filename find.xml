@@ -17,5 +17,6 @@
     <mask>*.java</mask>
     <mask>*.clj</mask>
     <mask>.rs</mask>
+    <mask>.clj</mask>
   </component>
 </application>
