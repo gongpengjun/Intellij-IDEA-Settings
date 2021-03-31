@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/workspace/eptc" />
+        <option value="$USER_HOME$/workspace/halo_all" />
       </list>
     </option>
   </component>
