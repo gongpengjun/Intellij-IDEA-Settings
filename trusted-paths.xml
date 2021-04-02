@@ -4,6 +4,9 @@
       <list>
         <option value="$USER_HOME$/workspace/eptc" />
         <option value="$USER_HOME$/workspace/halo_all" />
+        <option value="$USER_HOME$/workspace" />
+        <option value="$USER_HOME$/my_nuc_workspace" />
+        <option value="$USER_HOME$/workspace/voip" />
       </list>
     </option>
   </component>
