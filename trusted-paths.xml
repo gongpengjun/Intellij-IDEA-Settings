@@ -7,6 +7,7 @@
         <option value="$USER_HOME$/workspace" />
         <option value="$USER_HOME$/my_nuc_workspace" />
         <option value="$USER_HOME$/workspace/voip" />
+        <option value="$USER_HOME$/Downloads" />
       </list>
     </option>
   </component>
