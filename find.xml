@@ -14,7 +14,7 @@
     <mask>*.pl</mask>
     <mask>*.yml</mask>
     <mask>*.javaj</mask>
-    <mask>*.java</mask>
     <mask>*.clj</mask>
+    <mask>*.java</mask>
   </component>
 </application>
