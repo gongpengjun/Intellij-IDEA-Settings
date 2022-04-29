@@ -14,6 +14,7 @@
       <mapping ext="2020-12-03" type="PLAIN_TEXT" />
       <mapping ext="2021-03-07" type="PLAIN_TEXT" />
       <mapping ext="2021-03-19" type="PLAIN_TEXT" />
+      <mapping ext="2022-04-29" type="PLAIN_TEXT" />
       <mapping ext="2021-04-04" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
