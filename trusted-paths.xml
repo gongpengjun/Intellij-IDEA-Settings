@@ -9,6 +9,7 @@
         <option value="$USER_HOME$/workspace/voip" />
         <option value="$USER_HOME$/Downloads" />
         <option value="/Volumes/Code/Spring" />
+        <option value="/Volumes/Code/Metrics" />
       </list>
     </option>
   </component>
