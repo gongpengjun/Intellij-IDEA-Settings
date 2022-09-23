@@ -74,7 +74,34 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="originUrl" value="" />
+        <option name="className" value="com.xiaojukeji.dichat.messagecontext.infrastructure.controller.MessageControllerV3" />
+        <option name="method" value="updateMsgDelSubChannelId" />
+        <option name="methodDescription" value="消息删除话题id" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="dmsg-core" />
+        <option name="pathParamMap">
+          <map>
+            <entry key="key">
+              <value>
+                <Object />
+              </value>
+            </entry>
+            <entry key="teamId">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="requestParamMap">
+          <map>
+            <entry key="uid">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
       </ParamGroup>
     </option>
     <option name="randomStringLength" value="5" />
