@@ -12,6 +12,7 @@
         <option value="/Volumes/Code/Metrics" />
         <option value="/Volumes/Code/wildfirechat" />
         <option value="/Volumes/Code/signalapp" />
+        <option value="$USER_HOME$/WeChatProjects" />
       </list>
     </option>
   </component>

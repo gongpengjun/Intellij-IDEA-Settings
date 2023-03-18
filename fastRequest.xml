@@ -1,5 +1,20 @@
 <application>
   <component name="fastRequest">
+    <option name="dataList">
+      <list>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="test" />
+                <option name="url" value="" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="snitch" />
+        </NameGroup>
+      </list>
+    </option>
     <option name="defaultDataMappingList">
       <list>
         <DataMapping>
@@ -72,6 +87,13 @@
         </DataMapping>
       </list>
     </option>
+    <option name="enableEnv" value="test" />
+    <option name="enableProject" value="snitch" />
+    <option name="envList">
+      <list>
+        <option value="test" />
+      </list>
+    </option>
     <option name="paramGroup">
       <ParamGroup>
         <option name="className" value="com.xiaojukeji.dichat.messagecontext.infrastructure.controller.MessageControllerV3" />
@@ -102,7 +124,13 @@
             </entry>
           </map>
         </option>
+        <option name="url" value="" />
       </ParamGroup>
+    </option>
+    <option name="projectList">
+      <list>
+        <option value="snitch" />
+      </list>
     </option>
     <option name="randomStringLength" value="5" />
   </component>

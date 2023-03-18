@@ -4,11 +4,13 @@
       <mapping pattern="PublicKey" type="AUTO_DETECTED" />
       <mapping pattern="focus_re_send_invite_with_same_meeting_uuid_test" type="AUTO_DETECTED" />
       <mapping pattern="qa" type="AUTO_DETECTED" />
+      <mapping ext="bpmn" type="Activiti BPMN 2.0 Engine XML process" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="PrivateKey" type="PLAIN_TEXT" />
       <mapping ext="2021-03-22" type="PLAIN_TEXT" />
+      <mapping ext="bat" type="PLAIN_TEXT" />
       <mapping ext="2021-04-02" type="PLAIN_TEXT" />
       <mapping ext="args" type="PLAIN_TEXT" />
       <mapping ext="2020-12-02" type="PLAIN_TEXT" />
