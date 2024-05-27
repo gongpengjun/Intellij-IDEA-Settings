@@ -4,7 +4,6 @@
       <mapping pattern="PublicKey" type="AUTO_DETECTED" />
       <mapping pattern="focus_re_send_invite_with_same_meeting_uuid_test" type="AUTO_DETECTED" />
       <mapping pattern="qa" type="AUTO_DETECTED" />
-      <mapping ext="bpmn" type="Activiti BPMN 2.0 Engine XML process" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
